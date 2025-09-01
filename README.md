@@ -22,4 +22,5 @@ Participando de curso de Python Back-End pelo programa de bolsas da Softex.
   <img src="https://img.shields.io/badge/Python-Programmer-yellow?logo=python" height="25"/>
   <img src="https://img.shields.io/badge/Git-Version%20Control-orange?logo=git" height="25"/>
   <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode" height="25"/>
+  <img src="https://img.shields.io/badge/VirtualBox-VM-purple?logo=virtualbox" height="25"/>
 </p>
