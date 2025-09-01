@@ -1,7 +1,7 @@
 # 👋 Olá!
 
 💻 **Linux Enthusiast & Open Source Learner**  
-Estudante de Python Back-End, com interesse em pentest e segurança digital.  
+Estudante de Python Back-End.  
 Participando de curso de Python Back-End pelo programa de bolsas da Softex.
 
 ---
