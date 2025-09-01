@@ -1,16 +1,17 @@
 # 👋 Olá!
 
 💻 **Linux Enthusiast & Open Source Learner**  
-Estudante de Python Back-End, explorando Linux, diferentes distribuições, ferramentas open source e conceitos de segurança digital.  
+Estudante de Python Back-End, com interesse em pentest e segurança digital.  
 Participando de curso de Python Back-End pelo programa de bolsas da Softex.
 
 ---
 
 ## 🚀 Sobre este perfil
-- 🐧 Uso Linux e estudo sistemas, terminal e diversas distribuições  
-- 📚 Aprendendo programação em Python e desenvolvimento Back-End  
+- 🐧 Gosto de explorar e testar diferentes distribuições Linux  
+- 📚 Estudando Python Back-End e desenvolvimento de software  
 - 🌍 Explorando software livre e filosofia Open Source  
-- 🔒 Estudando conceitos de segurança digital e pentest  
+- 🔒 Interesse em conceitos de segurança digital e práticas de pentest  
+- 🖥️ Experiência prática em montagem e manutenção de computadores, incluindo ajustes técnicos na BIOS e otimização de memória RAM, adquirida através de projetos pessoais e assistência a outras pessoas.
 
 ---
 
