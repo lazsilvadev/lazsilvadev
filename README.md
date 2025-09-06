@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre este perfil
 - 🐍 Estudante de Python Back-End pelo programa de bolsas da Softex. Explorando automação e desenvolvimento de scripts em projetos e estudos pessoais.     
-- 🔒 Interesse em conceitos de segurança digital  
+- 🔒 Interesse em conceitos de segurança digital.  
 - 🖥️ Experiência prática em montagem e manutenção de computadores, incluindo ajustes técnicos na BIOS e otimização de memória RAM, adquirida através de projetos pessoais e assistência a outras pessoas.
 
 ---
