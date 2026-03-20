@@ -5,7 +5,7 @@
 
 -  Desenvolvendo aplicações desktop e soluções web com foco em automação, organização de dados e segurança da informação.     
 ---
-🛠️ Tecnologias e Ferramentas
+🛠️ ## Ferramentas & Tecnologias
 ---
 ![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
