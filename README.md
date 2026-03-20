@@ -12,4 +12,4 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-1abc9c?style=flat-square&logo=jetbrains&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-VM-purple?style=flat-square&logo=virtualbox&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-E36209?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)
