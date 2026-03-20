@@ -3,7 +3,7 @@
  
 ---
 
--  Desenvolvendo aplicações desktop e soluções web com foco em automação, organização de dados e segurança da informação.     
+-  Desenvolvendo aplicações desktop e web com foco em automação, organização de dados e InfoSec.     
 ---
 🛠️ ## Ferramentas & Tecnologias
 ---
