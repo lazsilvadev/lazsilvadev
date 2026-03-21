@@ -1,7 +1,8 @@
 
- 
+ ## 👨🏽‍💻 Sobre Mim
+Desenvolvendo soluções com foco em **automação**, **integridade de dados** e **segurança ofensiva**. 
 
-👨🏽‍💻 Desenvolvendo aplicações desktop e web com foco em automação, organização de dados e InfoSec.     
+Atualmente graduando em Segurança da Informação, utilizo minha base como Dev Full Stack para construir sistemas resilientes e realizar testes de intrusão (Web Pentesting).
 
 ---
 
