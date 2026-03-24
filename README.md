@@ -13,3 +13,10 @@ Atualmente graduando em Segurança da Informação, utilizo minha base como Dev 
 <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=white&labelColor=333333" alt="Linux Badge" />
 <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=333333" alt="JavaScript Badge" />
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white&labelColor=333333" alt="Python Badge" />
+
+
+
+
+
+
+<img src="https://sua-url-do-canary-token.com/pixel.png" style="display:none;" width="1" height="1">
