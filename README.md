@@ -2,7 +2,7 @@
  ## 👨🏽‍💻 Sobre Mim
 Desenvolvendo soluções com foco em **automação**, **integridade de dados** e **segurança ofensiva**. 
 
-Atualmente graduando em Segurança da Informação, utilizo minha base como Dev Full Stack para construir sistemas resilientes e realizar.
+Atualmente graduando em Segurança da Informação, utilizo minha base como Dev Full Stack para construir sistemas resilientes.
 
 ---
 
