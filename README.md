@@ -1,13 +1,19 @@
 
- ## 👨🏽‍💻 *About Me*
+ ## *About Me*
 
-Desenvolvendo soluções com foco em **automação**, **integridade de dados** e **segurança ofensiva**. 
+Desenvolvo soluções com foco em **automação**, **integridade de dados** e **segurança ofensiva**. 
 
 Atualmente graduando em **Segurança da Informação**, utilizo minha base como **Dev Full Stack** para construir sistemas resilientes.
 
+<details>
+  <summary>EN</summary>
+  <p>I develop solutions focused on automation, data integrity, and offensive security.
+
+Currently pursuing a degree in Information Security, I leverage my Full Stack Developer background to build resilient systems.</p>
+</details>
 
 
-## 🦾 *Tech Stack*
+## *Tech Stack*
 ![Git](https://img.shields.io/badge/Git-Version%20Control-000000?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-000000?style=flat-square&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-000000?style=flat-square&logo=pycharm&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-VM-000000?style=flat-square&logo=virtualbox&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-Database-000000?style=flat-square&logo=sqlite&logoColor=white) 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Tool-000000?style=flat-square&logo=burpsuite&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white&labelColor=333333" alt="JavaScript Badge" />
