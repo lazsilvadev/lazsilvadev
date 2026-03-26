@@ -1,5 +1,5 @@
 
- ## 👨🏽‍💻 *Sobre Mim*
+ ## 👨🏽‍💻 *About Me*
 
 Desenvolvendo soluções com foco em **automação**, **integridade de dados** e **segurança ofensiva**. 
 
